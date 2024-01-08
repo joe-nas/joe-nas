@@ -1,5 +1,14 @@
 ### Hi there 👋
-[![My Skills](https://skillicons.dev/icons?i=java,javascript,python,r,bash,regex,nodejs,react,nextjs,spring,django,docker,mongodb,sklearn,tailwind&theme=light)]()
+Stuff I have worked with:
+
+Languages:
+[![My Skills](https://skillicons.dev/icons?i=java,javascript,python,r,bash,regex&theme=light)]()
+
+Frameworks and libraries:
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,spring,django,sklearn,tailwind&theme=light)]()
+
+DB and utilities:
+[![My Skills](https://skillicons.dev/icons?i=nodejs,docker,mongodb,sqlite,mysql,postgres&theme=light)]()
 
 <!--
 **joe-nas/joe-nas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
