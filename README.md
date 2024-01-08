@@ -1,13 +1,16 @@
 ### Hi there 👋
-Stuff I have worked with:
+Stuff I have worked with and at least basal knowledge:
 
 Languages:
-[![My Skills](https://skillicons.dev/icons?i=java,javascript,python,r,bash,regex&theme=light)]()
+
+[![My Skills](https://skillicons.dev/icons?i=java,javascript,python,r,bash,regex,latex&theme=light)]()
 
 Frameworks and libraries:
+
 [![My Skills](https://skillicons.dev/icons?i=react,nextjs,spring,django,sklearn,tailwind&theme=light)]()
 
 DB and utilities:
+
 [![My Skills](https://skillicons.dev/icons?i=nodejs,docker,mongodb,sqlite,mysql,postgres&theme=light)]()
 
 <!--
