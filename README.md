@@ -1,5 +1,5 @@
 ### Hi there I am working on my Github profile👋
-Stuff I have worked with and have at least basal knowledge:
+Stuff I have worked with and have at least basal knowledge of:
 
 Languages:
 
